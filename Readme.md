@@ -1,0 +1,1 @@
+The objective is to detect the text from the Image using EasyOCR library.
